@@ -1,7 +1,7 @@
 export const pricingCards = [
     {
         title: 'Starter',
-        description: 'Perfect for trying out plura',
+        description: 'Perfect for trying out struXture',
         price: 'Free',
         duration: '',
         highlight: 'Key features',
@@ -15,7 +15,7 @@ export const pricingCards = [
         duration: 'month',
         highlight: 'Key features',
         features: ['Rebilling', '24/7 Support team'],
-        priceId: 'price_1OYxkqFj9oKEERu1KfJGWxgN',
+        priceId: '',
     },
     {
         title: 'Basic',
@@ -24,6 +24,6 @@ export const pricingCards = [
         duration: 'month',
         highlight: 'Everything in Starter, plus',
         features: ['Unlimited Sub accounts', 'Unlimited Team members'],
-        priceId: 'price_1OYxkqFj9oKEERu1NbKUxXxN',
+        priceId: '',
     },
 ]
