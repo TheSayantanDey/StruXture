@@ -25,7 +25,7 @@ export default async function Home() {
 
         <p className="text-center">Run your agency, in one place</p>
         <div className="bg-gradient-to-r from-primary to-secondary-foreground text-transparent bg-clip-text relative">
-          <h1 className="text-9xl font-bold text-center md:text-[200px]">
+          <h1 className="text-6xl font-bold text-center md:text-[200px]">
             struXture
           </h1>
         </div>
@@ -40,7 +40,7 @@ export default async function Home() {
           <div className="bottom-0 top-[50%] bg-gradient-to-t dark:from-background left-0 right-0 absolute z-10"></div>
         </div>
       </section>
-      <section className="flex justify-center items-center flex-col gap-4 md:mt-40 mt-20 relative z-10">
+      <section className="w-full flex justify-center items-center flex-col gap-4 md:mt-40 mt-20 relative z-10">
         <h2 className="text-4xl text-center"> Choose what fits you right</h2>
         <p className="text-muted-foreground text-center">
           Our straightforward pricing plans are tailored to meet your needs. If
